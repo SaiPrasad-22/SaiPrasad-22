@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SaiPrasad-22
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning MERN Stack Development
+- 🧑‍💻 MERN Stack Development
 - 📫 Reach me on LikendIn : https://www.linkedin.com/in/sai-prasad-raju-22-/
 
 <!---
